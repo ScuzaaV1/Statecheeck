@@ -1,0 +1,106 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 50x;
+  margin-left: 60px;
+  font-family: "Kanit", sans-serif;
+}
+
+.left-side {
+  background-color: #335D7E;
+  margin: 0 100px 0 100px;
+  height: 111vh;
+  width: 3000px;
+  
+}
+h1 {
+  color: azure;
+  margin-bottom: 30px;
+}
+.skills{
+  margin-bottom: -100px;
+}
+p {
+  font-weight: 300;
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  margin-bottom: 40px;
+}
+button {
+  display: block;
+  margin: 0 auto;
+  position: relative;
+  width: 150px;
+  padding: 1em;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.time {
+  margin-left: 930px;
+}
+img {
+  width: 200px;
+  border-radius: 100px 20px;
+}
+
+.contact {
+  border-radius: 209px 400px 209px 400px;
+  background-color: rgb(131, 133, 133);
+  height: 190px;
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+}
+h3 {
+  color: #3c3c3e;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.bth {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  margin-top: -10px;
+}
+
+
+.bth p {
+  color: #ffffff;
+  margin-top: 35px; 
+}
+.phonenumber{
+  color: #222222 !important;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.aboutomar{ 
+  text-align: center !important;
+}
+
+.abt {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5px;
+}
+
+.abt p {
+  width: 500px;
+  color: #282c34;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.htmll{
+  display: flex;
+  margin-bottom: -300px;;
+}
